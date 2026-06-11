@@ -31,7 +31,7 @@ function App() {
           <p>Investigação técnica sobre otimização de sistemas, incluindo configurações de BIOS (PBO, Resizable BAR) e tecnologias de renderização (DLSS/Frame Gen).</p>
         </div>
 
-        <div className="card-tech" style={{ borderLeft: '4px solid #00ffcc' }}>
+        <div className="card-tech" style={{}}>
           <h3>Manutenção e Hardware</h3>
           <p>Experiência prática em montagem, desmontagem e diagnóstico (troubleshooting) de hardware.</p>
           <div style={{ display: 'inline-block', backgroundColor: '#333', color: '#00ffcc', padding: '4px 10px', borderRadius: '4px', fontSize: '0.8rem', fontWeight: 'bold', marginBottom: '15px' }}>
