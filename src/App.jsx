@@ -13,13 +13,13 @@ function App() {
       </nav>
 
       {/* Seção Sobre Mim */}
-      <section id="sobre" style={{ paddingTop: '100px', padding: '50px 20px', maxWidth: '800px', margin: 'auto' }}>
+      <section id="sobre" style={{ paddingTop: '100px', padding: '50px 20px', scrollMarginTop: '80px', maxWidth: '800px', margin: 'auto' }}>
         <h2 style={{ color: '#00ffcc' }}>Sobre Mim</h2>
         <p>Sou João Victor, entusiasta de tecnologia e estudante de ADS. Minha jornada começou nos bastidores de sistemas de alta performance, e hoje busco traduzir esse conhecimento técnico em desenvolvimento de software. Seja otimizando hardware ou construindo interfaces no front-end, meu objetivo é claro: criar soluções que entreguem performance e experiência real.</p>
       </section>
 
       {/* Seção Projetos e Estudos */}
-      <section id="projetos" style={{ paddingTop: '100px', padding: '50px 20px', maxWidth: '1000px', margin: 'auto' }}>
+      <section id="projetos" style={{ paddingTop: '100px', padding: '50px 20px', scrollMarginTop: '80px', maxWidth: '1000px', margin: 'auto' }}>
         <h2 style={{ color: '#00ffcc' }}>Meus Projetos e Estudos</h2>
         <div className="card-tech">
           <h3>Jornada Acadêmica: ADS (UNIT EAD)</h3>
